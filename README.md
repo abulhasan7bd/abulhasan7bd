@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abul Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abulhasan7bd&label=Profile%20views&color=0e75b6&style=flathttps://media.istockphoto.com/id/1425262386/photo/portrait-of-handsome-smiling-young-man-with-crossed-arms.jpg?s=1024x1024&w=is&k=20&c=uT5v-aumKxzJUypMSnepy1LZYOrLLkLY36ebkWIXxuk=https://scontent.fdac11-2.fna.fbcdn.net/v/t39.30808-1/383398300_624417013228601_1472230339730729672_n.jpg?stp=c0.7.720.717a_dst-jpg_s160x160&_nc_cat=109&ccb=1-7&_nc_sid=4da83f&_nc_ohc=2f37b9vfS78AX-oshVY&_nc_ht=scontent.fdac11-2.fna&oh=00_AfBXGAqotyICW7kDZ1CWt6nyjZo8Sck67GD9HPBMHrbQaA&oe=65C28535)" alt="abulhasan7bd" /> </p>
+<p align="center"> <img src="https://media.istockphoto.com/id/1425262386/photo/portrait-of-handsome-smiling-young-man-with-crossed-arms.jpg?s=1024x1024&w=is&k=20&c=uT5v-aumKxzJUypMSnepy1LZYOrLLkLY36ebkWIXxuk=" alt="abulhasan7bd" /> </p>
 
 - 🔭 I’m currently working on Web design **Student Management**
 
