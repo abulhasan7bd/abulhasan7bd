@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abul Hasan</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
-<p align="center"> <img src="https://media.istockphoto.com/id/1425262386/photo/portrait-of-handsome-smiling-young-man-with-crossed-arms.jpg?s=1024x1024&w=is&k=20&c=uT5v-aumKxzJUypMSnepy1LZYOrLLkLY36ebkWIXxuk=" alt="abulhasan7bd" /> </p>
+<p align="center" height:'200px'> <img src="https://media.istockphoto.com/id/1425262386/photo/portrait-of-handsome-smiling-young-man-with-crossed-arms.jpg?s=1024x1024&w=is&k=20&c=uT5v-aumKxzJUypMSnepy1LZYOrLLkLY36ebkWIXxuk=" alt="abulhasan7bd" /> </p>
 
 - 🔭 I’m currently working on Web design **Student Management**
 
