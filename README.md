@@ -37,7 +37,7 @@ I enjoy turning ideas into interactive, accessible, and responsive web applicati
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abulhasan7bd&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abulhasan7bd&)](https://git.io/streak-stats)
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abulhasan7bd&show_icons=true&theme=github_dark&hide_border=true" />
