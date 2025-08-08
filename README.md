@@ -1,15 +1,28 @@
-<h2 align="left">Hi 👋, I'm Abul Hasan</h2>
-<h3 align="left">A passionate frontend developer from Bangladesh.</h3>
+# Hi I'm  Abul hasan 👋
 
-<p align="center" height:'200px'> <a href="https://ibb.co/qgrpDfp"><img src="https://i.ibb.co/Sm3B68B/Front-End-Developer-2.png" alt="Front-End-Developer-2" border="0" width='100%'  object-fit='cover'></a> </p>
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/md-abul-hasem-a6931a317/)](https://www.linkedin.com/in/md-abul-hasem-a6931a317/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/AbulHasanFB)](https://www.facebook.com/AbulHasanFB)
+[![Gmail Badge](https://img.shields.io/badge/-abulhasan7bd@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:abulhasan7bd@gmail.com)](mailto:abulhasan7bd@gmail.com)
 
-- 🔭 I’m currently working on Web design **Student Management**
+Welcome to my profile! I'm a student and an aspiring [front-end developer](https://github.com/AbulHasanFB) who loves learning by building real projects. I enjoy working with HTML, CSS, JavaScript, and React — even though I’m still exploring and figuring things out one step at a time. Currently, I’m focused on growing my skills, building cool beginner-friendly projects, and sharing my progress here. Thanks for stopping by — I’d love to [connect](https://www.linkedin.com/in/md-abul-hasem-a6931a317/)! 
 
-- 👯 I’m looking to collaborate on JavaScript problem solvem **Todo Project**
+## Development Tools & Languages
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/md abul hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md abul hasan" height="30" width="40" /></a>
+<p>
+  <!-- Frontend Stack -->
+<img alt="React" src="https://img.shields.io/badge/React-Olive?style=for-the-badge&logo=react&logoColor=%2306B6D4&labelColor=black&color=%23708090"/>
+<img alt="NextJS" src="https://img.shields.io/badge/NextJS-blue?style=for-the-badge&logo=nextdotjs&labelColor=black"/>
+<img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwindcss&logoColor=green&labelColor=tailwindcss"/>
+<img alt="React-router-dom" src="https://img.shields.io/badge/React--Router--Dom-black?style=for-the-badge&logo=reactrouter&logoColor=%23800080&labelColor=black"/>
+<img alt="Redux" src="https://img.shields.io/badge/Redux-purple?style=for-the-badge&logo=redux&logoColor=white&labelColor=black"/>
+<img alt="Redux Toolkit" src="https://img.shields.io/badge/Redux--Toolkit-%236E40C9?style=for-the-badge&logo=redux&logoColor=white&labelColor=black"/>
+<img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-darkblue?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black"/>
+
+<!-- Backend Stack -->
+<img alt="ExpressJS" src="https://img.shields.io/badge/ExpressJS-gray?style=for-the-badge&logo=express&logoColor=white&labelColor=black"/>
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-darkgreen?style=for-the-badge&logo=node.js&logoColor=white&labelColor=black"/>
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-darkslategray?style=for-the-badge&logo=mongodb&logoColor=green&labelColor=black"/>
+<img alt="Firebase" src="https://img.shields.io/badge/Firebase-darkorange?style=for-the-badge&logo=firebase&logoColor=white&labelColor=black"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
