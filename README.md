@@ -8,9 +8,15 @@ Welcome to my GitHub! I'm **Abul Hasan**, a passionate Front-End Developer and t
 
 I enjoy turning ideas into interactive, accessible, and responsive web applications. Every line of code I write is a step forward in my journey as a developer — and I’m always eager to take the next step.
 
-🚀 **Let’s connect** on [LinkedIn](https://www.linkedin.com/in/md-abul-hasem-a6931a317/) and grow together!
+**Let’s connect** on [LinkedIn](https://www.linkedin.com/in/md-abul-hasem-a6931a317/) and grow together!
 
 ---
+
+### Current Activities
+- I am exploring **Next.js** for building dynamic web applications.  
+- I’m working on a **MERN stack project** focused on managing store product counts.  
+- I enjoy learning and adapting to every **updated technology** that enhances development efficiency.
+
 
 ## 💻 Technologies & Tools
 
@@ -33,7 +39,10 @@ I enjoy turning ideas into interactive, accessible, and responsive web applicati
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
----
+### Code Editors & IDEs
+<p>
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/vsocde-black?style=for-the-badge&logo=v"/>
+</p>
 
 ## 📊 GitHub Stats
 
