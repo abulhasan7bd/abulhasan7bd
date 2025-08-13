@@ -45,9 +45,7 @@ I enjoy turning ideas into interactive, accessible, and responsive web applicati
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/vsocde-black?style=for-the-badge&logo=v"/>
 </p>
 
-## 📊 GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abulhasan7bd&)](https://git.io/streak-stats)
+## GitHub Stats
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abulhasan7bd&show_icons=true&theme=github_dark&hide_border=true" />
@@ -57,6 +55,11 @@ I enjoy turning ideas into interactive, accessible, and responsive web applicati
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abulhasan7bd&theme=github-dark-dimmed&custom_title=Abul%20Hasan's%20GitHub%20Activity&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
+##  Languages I Speak
+
+- **English** — Professional Working Proficiency
+- **Bangla** — Native / Bilingual Proficiency
+- **Hindi** — Limited Working Proficiency
 
 ### ✨ Thanks for visiting!
 
